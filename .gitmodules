@@ -1,0 +1,3 @@
+[submodule "projects/week-01-keyword-retrieval"]
+	path = projects/week-01-keyword-retrieval
+	url = ./projects/week-01-keyword-retrieval
